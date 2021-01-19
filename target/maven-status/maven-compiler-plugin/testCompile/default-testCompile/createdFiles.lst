@@ -1,0 +1,3 @@
+com/acme/kafka/connect/sample/SampleSourceConnectorTest.class
+com/acme/kafka/connect/sample/SampleSourceTaskTest.class
+com/acme/kafka/connect/sample/SampleSourceConnectorConfigTest.class

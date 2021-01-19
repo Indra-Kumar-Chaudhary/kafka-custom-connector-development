@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.29">
+<file name="/home/indra/kafka-source-connector/src/main/java/com/acme/kafka/connect/sample/SampleSourceTask.java">
+</file>
+<file name="/home/indra/kafka-source-connector/src/main/java/com/acme/kafka/connect/sample/SampleSourceConnector.java">
+</file>
+<file name="/home/indra/kafka-source-connector/src/main/java/com/acme/kafka/connect/sample/SampleSourceConnectorConfig.java">
+</file>
+<file name="/home/indra/kafka-source-connector/src/main/java/com/acme/kafka/connect/sample/SourceMonitorThread.java">
+</file>
+<file name="/home/indra/kafka-source-connector/src/main/java/com/acme/kafka/connect/sample/PropertiesUtil.java">
+</file>
+<file name="/home/indra/kafka-source-connector/src/main/resources/kafka-connect-sample.properties">
+</file>
+<file name="/home/indra/kafka-source-connector/src/test/resources/kafka-connect-sample.properties">
+</file>
+</checkstyle>

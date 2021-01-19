@@ -1,0 +1,5 @@
+com/acme/kafka/connect/sample/SampleSourceTask.class
+com/acme/kafka/connect/sample/SampleSourceConnectorConfig.class
+com/acme/kafka/connect/sample/SampleSourceConnector.class
+com/acme/kafka/connect/sample/SourceMonitorThread.class
+com/acme/kafka/connect/sample/PropertiesUtil.class

@@ -1,0 +1,11 @@
+#Sat Jan 16 13:52:51 NPT 2021
+/home/indra/kafka-source-connector/src/main/java/com/acme/kafka/connect/sample/SampleSourceConnector.java=1610784106119
+configuration*?=BF5B5E0C56CB56099E537E4CBD1FFA13478B5609
+/home/indra/kafka-source-connector/src/main/java/com/acme/kafka/connect/sample/SampleSourceConnectorConfig.java=1610784106119
+/home/indra/kafka-source-connector/src/main/resources/kafka-connect-sample.properties=1610784106119
+module-resource*?\:checkstyle-xpath-suppressions.xml=695803D956443A69DBB7345F6784AB34480A55A
+module-resource*?\:checkstyle-suppressions.xml=FB9C7DE32DCEE0D98DA344115627974E58DF2F55
+/home/indra/kafka-source-connector/src/main/java/com/acme/kafka/connect/sample/PropertiesUtil.java=1610784106119
+/home/indra/kafka-source-connector/src/main/java/com/acme/kafka/connect/sample/SampleSourceTask.java=1610784106119
+/home/indra/kafka-source-connector/src/test/resources/kafka-connect-sample.properties=1610784106123
+/home/indra/kafka-source-connector/src/main/java/com/acme/kafka/connect/sample/SourceMonitorThread.java=1610784106119

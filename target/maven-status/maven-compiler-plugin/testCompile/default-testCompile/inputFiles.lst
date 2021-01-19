@@ -1,0 +1,3 @@
+/home/indra/kafka-source-connector/src/test/java/com/acme/kafka/connect/sample/SampleSourceConnectorConfigTest.java
+/home/indra/kafka-source-connector/src/test/java/com/acme/kafka/connect/sample/SampleSourceTaskTest.java
+/home/indra/kafka-source-connector/src/test/java/com/acme/kafka/connect/sample/SampleSourceConnectorTest.java
