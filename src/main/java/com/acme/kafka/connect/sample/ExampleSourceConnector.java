@@ -16,7 +16,7 @@ import org.apache.kafka.connect.errors.ConnectException;
 import org.apache.kafka.connect.source.SourceConnector;
 import org.apache.kafka.connect.util.ConnectorUtils; 
 
-import static com.acme.kafka.connect.sample.ExampleSourceConnectorConfig..*; 
+import static com.acme.kafka.connect.sample.ExampleSourceConnectorConfig.*; 
 
 public class ExampleSourceConnector extends SourceConnector {
     private final Logger log = LoggerFactory.getLogger(ExampleSourceConnector.class);

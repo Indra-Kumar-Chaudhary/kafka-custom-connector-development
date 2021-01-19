@@ -2,8 +2,8 @@
     "name":"connector-example",
     "config":{
         "connector.class": "com.acme.kafka.connect.sample.ExampleSourceConnector",
-        "first.required.param": "kafka",
-        "second.required.param": "Connect",
+        "first.required.param": "kafka1",
+        "second.required.param": "Connect1",
         "tasks.max":"1"
     }
 }
